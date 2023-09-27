@@ -50,8 +50,5 @@ To use this repository for your own data cleaning project or analysis, follow th
 - Abdul Rakib 
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 We would like to thank the FIFA 21 community and data providers for making this dataset available for analysis and research.
